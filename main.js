@@ -266,7 +266,7 @@ function initContactForm() {
     if (!form) return;
 
     // ⚠️ REPLACE WITH YOUR GOOGLE APPS SCRIPT WEB APP URL
-    const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbw7p8UeG1-VkJ_UjwC5LyDid1f7oqj_Sk-Vot4SIG3RYR3ELVWIotVrnzMt8_KmJKhU/exec';
+    const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxIhktiMTgvwzx0-yiDCNvRjWTa6YuCcX0FcKb7-rRV73wrNwfspNzxPgXqQuy0Fhjv/exec';
 
     const submitBtn = form.querySelector('button[type="submit"]');
 
